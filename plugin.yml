@@ -1,0 +1,16 @@
+name: CustomChannels
+version: 0.0.11_alpha
+main: me.rdl.cc.Main
+
+description: Will add 2 Chat Channels!
+author: RedstonedLife
+website: RedstonedLife.github.io
+
+commands:
+  cs:
+    description: Channel Select (GUI)
+  cc:
+    description: Main Plugin Command
+    aliases: [customchannels]
+    permission: cc.*
+
