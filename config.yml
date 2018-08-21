@@ -1,0 +1,21 @@
+#CustomChannels
+# Made By RedstonedLife
+# Inspired By Private Messages in game
+# Version: 0.0.11_alpha
+
+#CustomChannels Main Options
+Spyable: true
+
+#Donator Chat
+DonatorChatFormat: "&e&lDonator {DISPLAYNAME} &7&l>> {MESSAGE}"
+DonatorChatPermission: true
+#Staff Chat
+StaffChatFormat: "&c&lStaff {DISPLAYNAME} &7&l>> {MESSAGE}"
+StaffChatPermission: true
+#Regular Chat will be the same
+#YouTube Chat
+YouTubeChatFormat: "&4&lYou&f&lTube &r{DISPLAYNAME} &7&l>> &r{MESSAGE}"
+YouTubeChatPermission: true
+#Twitch Chat
+TwitchChatFormat: "&5&lTwitch &r{DISPLAYNAME} &7&l>> &r{MESSAGE}"
+TwitchChatPermission: true
